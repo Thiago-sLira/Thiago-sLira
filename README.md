@@ -14,7 +14,6 @@ Estudante em Desenvolvimento Web Fullstack pela Trybe | Turma 26
   
   - Casado com a melhor artista do país;
   - 💻Estudando Desenvolvimento Web desde Agosto de 2022. <br />
-- 👾 Alguns hobbies:<br/>
 - Cinéfilo! A experiência do cinema não tem comparação;; <br/>
 - Jogador de Brawl Stars (gosto da simplicidade dos personagens) e Alto's Odyssey (tranquilidade nos momentos agitados).<br />
 </p>
