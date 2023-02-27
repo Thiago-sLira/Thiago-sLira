@@ -21,25 +21,24 @@ Estudante em Desenvolvimento Web Back-end pela Trybe | Turma 26
 </p>
  
 <strong>Linguagens e ferramentas:</strong> <br/><br/>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>           
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<spam><strong><em>GitHub</em></strong></spam> |
+<spam><strong><em>JavaScript</em></strong></spam> |
+<spam><strong><em>Jest</em></strong></spam> |
+<spam><strong><em>React</em></strong></spam> |
+<spam><strong><em>React Testing Library</em></strong></spam> |
+<spam><strong><em>HTML5</em></strong></spam> |
+<spam><strong><em>CSS3</em></strong></spam> |
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</p>
+<spam><strong><em>Node.js</em></strong></spam> |
+<spam><strong><em>Docker</em></strong></spam> |
+<spam><strong><em>SQL</em></strong></spam> |
+
 <strong>Contato:</strong> <br/><br/>
 
 <p align="left">
-  
-  <a href = "mailto:liras.thiago@gmail.com">
+<!--   <a href = "mailto:liras.thiago@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=2ec18b" target="_blank">
-  </a>
-  
+  </a> -->
   <a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/franfigueiredoo"/>
   </a>
