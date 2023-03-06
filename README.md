@@ -2,9 +2,6 @@
 <hr />
 <br />
 
-<a href="http://betrybe.com/" target="_blank">
-<img align="left" src="https://emoji.slack-edge.com/TMDDFEPFU/trybe_logoverde/1ff4f04c05e88868.png" width="20px" height="20px">
-</a> 
 Software Developer Front-end
 <br />
 Estudante em Desenvolvimento Web Back-end pela Trybe | Turma 26
