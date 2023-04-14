@@ -1,8 +1,9 @@
-<h1 align="center"> Olá, meu nome é Thiago! </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+pessoa!!+👊;Thiago+Lira+aqui!;&center=true&size=30&color=ff0000">
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Thiago">
-</p>
 
 <p align="center"> 
   Software Developer Front-end
@@ -24,10 +25,9 @@
 <p>
   <strong>Linguagens e ferramentas:</strong> <br><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
   <spam><strong><em>GitHub</em></strong></spam> |
   <spam><strong><em>JavaScript</em></strong></spam> |
+  <spam><strong><em>TypeScript</em></strong></spam> |
   <spam><strong><em>Jest</em></strong></spam> |
   <spam><strong><em>React</em></strong></spam> |
   <spam><strong><em>React Testing Library</em></strong></spam> |
@@ -37,7 +37,42 @@
   <spam><strong><em>Node.js</em></strong></spam> |
   <spam><strong><em>Docker</em></strong></spam> |
   <spam><strong><em>SQL</em></strong></spam> |
+  <spam><strong><em>API REST</em></strong></spam> |
+  <spam><strong><em>Sequelize</em></strong></spam> |
+  <spam><strong><em>Express</em></strong></spam> |
+  <spam><strong><em>ORM e Autenticação</em></strong></spam> |
+  <spam><strong><em>POO e SOLID</em></strong></spam> |
+  <spam><strong><em>MongoDB</em></strong></spam> |
+  
+  <spam><strong><em>Java (em progresso)</em></strong></spam> |
 </p>
+
+<hr>
+
+<h2 align="center">⚡GitHub Status ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-sLira&theme=react&border=61dafb&hide_border=true" alt="Thiago-sLira" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Thiago-sLira&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Thiago-sLira/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-sLira&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>   
+  </div>
+  <br>
+  <p align="center"> 
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thiago-sLira&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
+  </p>
+</p>
+
+
 
 <hr>
 
