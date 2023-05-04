@@ -87,8 +87,8 @@
     <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=2ec18b&link=mailto:thiago.slira@outlook.com"/>
   </a>
 
-  <a href="tel:11984119379" target="_blank" alt="Telefone">
-    <img src="https://img.shields.io/badge/-Telefone-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=tel:11984119379"/>
+  <a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=https://wa.me/5511984119379"/>
   </a>
   
    <a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
