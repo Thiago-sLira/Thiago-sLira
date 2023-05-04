@@ -25,7 +25,6 @@
 <p>
   <strong>Linguagens e ferramentas:</strong> <br><br>
 
-  <spam><strong><em>GitHub</em></strong></spam> |
   <spam><strong><em>JavaScript</em></strong></spam> |
   <spam><strong><em>TypeScript</em></strong></spam> |
   <spam><strong><em>Jest</em></strong></spam> |
@@ -33,6 +32,7 @@
   <spam><strong><em>React Testing Library</em></strong></spam> |
   <spam><strong><em>HTML5</em></strong></spam> |
   <spam><strong><em>CSS3</em></strong></spam> |
+  <spam><strong><em>Git</em></strong></spam> |
 
   <spam><strong><em>Node.js</em></strong></spam> |
   <spam><strong><em>Docker</em></strong></spam> |
@@ -44,7 +44,7 @@
   <spam><strong><em>POO e SOLID</em></strong></spam> |
   <spam><strong><em>MongoDB</em></strong></spam> |
   
-  <spam><strong><em>Java (em progresso)</em></strong></spam> |
+  <spam><strong><em>Java com POO</em></strong></spam> |
 </p>
 
 <hr>
