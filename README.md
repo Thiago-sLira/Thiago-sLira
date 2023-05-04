@@ -86,4 +86,14 @@
   <a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/thiago-slira/"/>
   </a>
+
+  <a href="mailto:thiago.slira@outlook.com" target="_blank" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=2ec18b&link=mailto:thiago.slira@outlook.com"/>
+  </a>
+
+  <a href="tel:11984119379" target="_blank" alt="Telefone">
+    <img src="https://img.shields.io/badge/-Telefone-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=tel:11984119379"/>
+  </a>
+
 </p>
+
