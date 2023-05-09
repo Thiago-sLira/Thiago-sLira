@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+pessoa!!+👊;Thiago+Lira+aqui!;&center=true&size=30&color=ff0000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👊;Thiago+Lira+here!;&center=true&size=30&color=ff0000">
   </a>
 </h1>
 
@@ -8,22 +8,22 @@
 <p align="center"> 
   Software Developer Front-end
   <br>
-  Estudante em Desenvolvimento Web Back-end pela Trybe | Turma 26
+  Web Development Student at Trybe | Class 26
 </p>
 
 <hr>
 
 <p>
-  <strong>Sobre mim:</strong> <br>
+  <strong>About me:</strong> <br>
   
-  - Casado com a melhor artista do país;
-  - 💻 Estudando Desenvolvimento Web desde Agosto de 2022. <br>
-  - 🎥 Cinéfilo! A experiência do cinema não tem comparação. <br>
-  - 🎮 Jogador de Brawl Stars (gosto da simplicidade dos personagens) e Alto's Odyssey (tranquilidade nos momentos agitados).<br>
+  - Married to the best artist in the country;
+  - 💻 Studying Web Development since August 2022. <br>
+  - 🎥 Cinephile! The cinema experience has no comparison. <br>
+  - 🎮 Brawl Stars player (I like the simplicity of the characters) and Alto's Odyssey (tranquility in hectic moments).<br>
 </p>
 
 <p>
-  <strong>Linguagens e ferramentas:</strong> <br><br>
+  <strong>Languages and tools:</strong> <br><br>
 
   <spam><strong><em>JavaScript</em></strong></spam> |
   <spam><strong><em>TypeScript</em></strong></spam> |
@@ -37,14 +37,14 @@
   <spam><strong><em>Node.js</em></strong></spam> |
   <spam><strong><em>Docker</em></strong></spam> |
   <spam><strong><em>SQL</em></strong></spam> |
-  <spam><strong><em>API REST</em></strong></spam> |
+  <spam><strong><em>REST API</em></strong></spam> |
   <spam><strong><em>Sequelize</em></strong></spam> |
   <spam><strong><em>Express</em></strong></spam> |
-  <spam><strong><em>ORM e Autenticação</em></strong></spam> |
-  <spam><strong><em>POO e SOLID</em></strong></spam> |
+  <spam><strong><em>ORM and Authentication</em></strong></spam> |
+  <spam><strong><em>OOP and SOLID</em></strong></spam> |
   <spam><strong><em>MongoDB</em></strong></spam> |
   
-  <spam><strong><em>Java com POO</em></strong></spam> |
+  <spam><strong><em>Java with OOP</em></strong></spam> |
 </p>
 
 <hr>
