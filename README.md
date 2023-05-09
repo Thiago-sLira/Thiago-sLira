@@ -33,6 +33,7 @@
   <span><strong><em>HTML5</em></strong></span> |
   <span><strong><em>CSS3</em></strong></span> |
   <span><strong><em>Git</em></strong></span> |
+  <span><strong><em>Java</em></strong></span> |
 
   <span><strong><em>Node.js</em></strong></span> |
   <span><strong><em>Docker</em></strong></span> |
@@ -43,8 +44,6 @@
   <span><strong><em>ORM and Authentication</em></strong></span> |
   <span><strong><em>OOP and SOLID</em></strong></span> |
   <span><strong><em>MongoDB</em></strong></span> |
-  
-  <span><strong><em>Java</em></strong></span> |
 </p>
 
 <hr>
