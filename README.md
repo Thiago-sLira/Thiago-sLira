@@ -51,6 +51,7 @@ Full Stack Developer.
     ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
     ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<!--     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) -->
 
  - #### Test
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -74,19 +75,19 @@ Full Stack Developer.
 
 ## ➤ Contact:
 <a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/thiago-slira/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0E76A8&link=https://www.linkedin.com/in/thiago-slira/"/>
 </a>
 
 <a href="mailto:thiago.slira@outlook.com" target="_blank" alt="E-mail">
-    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=2ec18b&link=mailto:thiago.slira@outlook.com"/>
+    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0471C4&link=mailto:thiago.slira@outlook.com"/>
 </a>
 
 <a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
-   <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=https://wa.me/5511984119379"/>
+   <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/5511984119379"/>
 </a>
   
 <a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/thiago.slira/"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=3F729B&link=https://www.instagram.com/thiago.slira/" style="background: linear-gradient(135deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);"/>
 </a>
 
 &nbsp;
