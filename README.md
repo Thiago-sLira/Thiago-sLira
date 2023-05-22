@@ -1,27 +1,3 @@
-<!-- <p>
-  <strong>Languages and tools:</strong> <br><br>
-
-  <span><strong><em>JavaScript</em></strong></span> |
-  <span><strong><em>TypeScript</em></strong></span> |
-  <span><strong><em>Jest</em></strong></span> |
-  <span><strong><em>React</em></strong></span> |
-  <span><strong><em>React Testing Library</em></strong></span> |
-  <span><strong><em>HTML5</em></strong></span> |
-  <span><strong><em>CSS3</em></strong></span> |
-  <span><strong><em>Git</em></strong></span> |
-  <span><strong><em>Java</em></strong></span> |
-
-  <span><strong><em>Node.js</em></strong></span> |
-  <span><strong><em>Docker</em></strong></span> |
-  <span><strong><em>SQL</em></strong></span> |
-  <span><strong><em>REST API</em></strong></span> |
-  <span><strong><em>Sequelize</em></strong></span> |
-  <span><strong><em>Express</em></strong></span> |
-  <span><strong><em>ORM and Authentication</em></strong></span> |
-  <span><strong><em>OOP and SOLID</em></strong></span> |
-  <span><strong><em>MongoDB</em></strong></span> |
-</p> -->
-
 # Hey, I'm Thiago Lira!
 
 Full Stack Developer.
@@ -38,6 +14,7 @@ Full Stack Developer.
 <div align="center">
   <img align="right" src="https://octodex.github.com/images/spidertocat.png" height="200px" />
 </div>
+<!-- https://octodex.github.com/ -->
 
   - #### Languages
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -76,6 +53,7 @@ Full Stack Developer.
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    <!--  https://github.com/Ileriayo/markdown-badges#-frameworks-platforms-and-libraries -->
 
 ## ➤ Languages:
 <a href="https://github.com/Thiago-sLira">
@@ -87,7 +65,8 @@ Full Stack Developer.
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thiago-sLira&theme=gotham&show_icons=true" />
 </a>
 
-## ➤ Contact:
+&nbsp;
+
 <a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0E76A8&link=https://www.linkedin.com/in/thiago-slira/"/>
 </a>
