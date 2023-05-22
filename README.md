@@ -67,22 +67,22 @@ Full Stack Developer.
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0E76A8&link=https://www.linkedin.com/in/thiago-slira/"/>
-</a>
-
-<a href="mailto:thiago.slira@outlook.com" target="_blank" alt="E-mail">
-    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0471C4&link=mailto:thiago.slira@outlook.com"/>
-</a>
-
-<a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
-   <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/5511984119379"/>
-</a>
-  
-<a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=3F729B&link=https://www.instagram.com/thiago.slira/" style="background: linear-gradient(135deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);"/>
-</a>
-
-&nbsp;
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B9176&width=435&lines=Chocolate+is+always+a+good+idea!)](https://git.io/typing-svg)
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
+      <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0E76A8&link=https://www.linkedin.com/in/thiago-slira/"/>
+  </a>
+
+  <a href="mailto:thiago.slira@outlook.com" target="_blank" alt="E-mail">
+      <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0471C4&link=mailto:thiago.slira@outlook.com"/>
+  </a>
+
+  <a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
+     <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/5511984119379"/>
+  </a>
+  
+  <a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=3F729B&link=https://www.instagram.com/thiago.slira/" style="background: linear-gradient(135deg,   #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D);"/>
+  </a>
+</div>
