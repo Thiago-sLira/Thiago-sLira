@@ -89,4 +89,6 @@ Full Stack Developer.
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/thiago.slira/"/>
 </a>
 
+&nbsp;
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B9176&width=435&lines=Chocolate+is+always+a+good+idea!)](https://git.io/typing-svg)
