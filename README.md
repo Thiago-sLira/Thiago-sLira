@@ -27,15 +27,12 @@
 Full Stack Developer.
 
 <!-- I am currently studying Web Development at [Trybe](https://www.betrybe.com). -->
-
-<p>
-  <strong>About me:</strong> <br>
+## About me
   
   - Married to the best artist in the country.
   - 💻 Studying Web Development since August 2022.
   - 🎥 Cinephile! The cinema experience has no comparison.
   - 🎮 Brawl Stars player (I like the simplicity of the characters) and Alto's Odyssey (tranquility in hectic moments).
-</p>
 
 ## 🔭 Hard-Skills
 <div align="center">
