@@ -1,28 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👊;Thiago+Lira+here.&center=true&size=30&color=ff0000">
-  </a>
-</h1>
-
-
-<p align="center"> 
-  Software Developer Front-end
-  <br>
-  Web Development Student at Trybe | Class 26
-</p>
-
-<hr>
-
-<p>
-  <strong>About me:</strong> <br>
-  
-  - Married to the best artist in the country.
-  - 💻 Studying Web Development since August 2022.
-  - 🎥 Cinephile! The cinema experience has no comparison.
-  - 🎮 Brawl Stars player (I like the simplicity of the characters) and Alto's Odyssey (tranquility in hectic moments).
-</p>
-
-<p>
+<!-- <p>
   <strong>Languages and tools:</strong> <br><br>
 
   <span><strong><em>JavaScript</em></strong></span> |
@@ -44,53 +20,73 @@
   <span><strong><em>ORM and Authentication</em></strong></span> |
   <span><strong><em>OOP and SOLID</em></strong></span> |
   <span><strong><em>MongoDB</em></strong></span> |
-</p>
+</p> -->
 
-<hr>
+# Hey, I'm Thiago Lira!
 
-<h2 align="center">⚡GitHub Status ⚡</h2>
-<div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-sLira&theme=react&border=61dafb&hide_border=true" alt="Thiago-sLira" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Thiago-sLira&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-<br>
-<!-- <div align="center">
-  <a href="https://github.com/Thiago-sLira/github-readme-stats">
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-sLira&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>   
-</div> -->
-<br>
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thiago-sLira&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
-</p>
-<hr>
+Full Stack Developer.
 
-<hr>
+<!-- I am currently studying Web Development at [Trybe](https://www.betrybe.com). -->
 
 <p>
-  <strong>Contact:</strong> <br><br>
-
-  <a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/thiago-slira/"/>
-  </a>
-
-  <a href="mailto:thiago.slira@outlook.com" target="_blank" alt="E-mail">
-    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=2ec18b&link=mailto:thiago.slira@outlook.com"/>
-  </a>
-
-  <a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=https://wa.me/5511984119379"/>
-</a>
+  <strong>About me:</strong> <br>
   
-   <a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/thiago.slira/"/>
-  </a>
-
+  - Married to the best artist in the country.
+  - 💻 Studying Web Development since August 2022.
+  - 🎥 Cinephile! The cinema experience has no comparison.
+  - 🎮 Brawl Stars player (I like the simplicity of the characters) and Alto's Odyssey (tranquility in hectic moments).
 </p>
 
+## 🔭 Hard-Skills
+<div align="center">
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" />
+</div>
+
+  - #### Frontend
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+ - #### Backend
+    ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+    ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+ - #### Test
+    ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+    ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+    ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+    
+
+ - #### Database
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+## ➤ Languages:
+<a href="https://github.com/Thiago-sLira">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Thiago-sLira&layout=compact&theme=gotham" />
+</a>
+
+## ➤ My stats:
+ <a href="https://github.com/Thiago-sLira">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Thiago-sLira&theme=gotham&show_icons=true" />
+</a>
+
+## ➤ Contact:
+<a href="https://www.linkedin.com/in/thiago-slira/" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=2ec18b&link=https://www.linkedin.com/in/thiago-slira/"/>
+</a>
+
+<a href="mailto:thiago.slira@outlook.com" target="_blank" alt="E-mail">
+    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&logoColor=2ec18b&link=mailto:thiago.slira@outlook.com"/>
+</a>
+
+<a href="https://wa.me/5511984119379" target="_blank" alt="WhatsApp">
+   <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=2ec18b&link=https://wa.me/5511984119379"/>
+</a>
+  
+<a href="https://www.instagram.com/thiago.slira/" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=2ec18b&link=https://www.instagram.com/thiago.slira/"/>
+</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B9176&width=435&lines=Chocolate+is+always+a+good+idea!)](https://git.io/typing-svg)
