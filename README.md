@@ -1,6 +1,6 @@
 # Hey, I'm Thiago Lira!
 
-Full Stack Developer.
+## Full Stack Developer.
 
 <!-- I am currently studying Web Development at [Trybe](https://www.betrybe.com). -->
 ## About me
